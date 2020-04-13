@@ -1,0 +1,9 @@
+site_name: WaterALLOC User Manual
+nav:
+    - Home: index.md
+    - Modules:
+            - Settings and Options: SettingsOptions.md
+            - HydroBID:
+                Creating a Folder: HydroBID_Main.md
+    - About: about.md
+
